@@ -36,3 +36,21 @@ input {
 img {
 	max-width: 300px;
 }
+.buttons {
+	background-color: #FFF275;
+	color: #A23E48;
+	border: #161212;
+    border-radius: 50%;
+	min-height:80px;
+	box-shadow: 5px 5px 2px 2px purple;
+	padding: 15px;
+	font-weight: 800;
+}
+.buttons:hover {
+	background-color:#fcfc03;
+	transition: 0.7s;
+	color:black;
+}
+.buttons:active{
+	background-color: purple;
+}
