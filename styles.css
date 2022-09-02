@@ -57,7 +57,7 @@ img {
 #profilepic {
 	height:auto;
 }
-ul , ol {
+.profilelists {
     color: purple ;
 	background-color: azure;
 	font-weight: 900;
