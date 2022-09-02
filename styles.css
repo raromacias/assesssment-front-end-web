@@ -54,3 +54,9 @@ img {
 .buttons:active{
 	background-color: purple;
 }
+#profilepic {
+	height:auto;
+}
+div ol ul {
+    color: white ;
+}
