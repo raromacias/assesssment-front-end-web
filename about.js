@@ -7,9 +7,7 @@ function handleSubmit(evt) {
 	
 	alert('Your form has been submitted successfully');
 }
-function handleMouseOver(evt) {
-	evt.preventDefault();
-	
+function handleMouseOver() {
 	alert('You are great');
 }
 
